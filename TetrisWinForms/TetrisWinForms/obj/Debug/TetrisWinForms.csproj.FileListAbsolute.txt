@@ -1,0 +1,14 @@
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\bin\Debug\TetrisWinForms.exe.config
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\bin\Debug\TetrisWinForms.exe
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\bin\Debug\TetrisWinForms.pdb
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\bin\Debug\Inertia.dll
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\bin\Debug\Inertia.pdb
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\bin\Debug\Inertia.xml
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\obj\Debug\TetrisWinForms.TetrisMain.resources
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\obj\Debug\TetrisWinForms.Properties.Resources.resources
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.GenerateResource.cache
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\obj\Debug\TetrisWinForms.csproj.CopyComplete
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\obj\Debug\TetrisWinForms.exe
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\obj\Debug\TetrisWinForms.pdb
+C:\Users\abdel\source\repos\TetrisWinForms\TetrisWinForms\obj\Debug\TetrisWinForms.csprojAssemblyReference.cache
