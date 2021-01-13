@@ -4,7 +4,7 @@ A Tetris game made with .NET WinForms and Inertia library
 ### Inertia repo: https://github.com/Etamiin/Inertia
 
 Bugs to fix:
-- [x] Sometimes a end-game message is showed for no reason
+- [ ] Sometimes a end-game message is showed for no reason
 - [ ] Clearing code
 
 ```
